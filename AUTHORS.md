@@ -1,12 +1,8 @@
 # Owner #
 ---------
-Samuel Seeman - [@samuelseeman](http://github.com/samuelseeman)
-<br> <br>
-# Massive Contributor #
------------------------
 Corban Pendrak - [@CorbanPendrak](http://github.com/CorbanPendrak)
 <br> <br>
-# Special Thanks To #
+# Contributors #
 ---------------------
-Corban Pendrak for creating relevant files!
-Beth Ann Seeman for creating the creator of this repository
+Samuel Seeman - [@samuelseeman](http://githup.com/samuelseeman)
+Contribute to this repository to have your name added here!
