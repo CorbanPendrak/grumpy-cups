@@ -4,7 +4,8 @@
 
 
 # Grumpy Cups!
-This repository contains pictures of grumpy cups and is a working test repository for Github
+This repository contains pictures of grumpy cups and is a working test repository for Github.
+Check out the wiki for the backstory!
 <br> <br>
 ## Files in picture folder
 ### picture001.png
