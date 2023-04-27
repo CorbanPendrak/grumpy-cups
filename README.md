@@ -108,7 +108,7 @@ Check out the wiki for the backstory!
 <br> <br>
 
 ## Files in picture folder
-These pictures have been createdwith the help of Bing's Image Generator. <br>
+These pictures have been created with the help of Bing's Image Generator. <br>
 Check it out <a href="https://www.bing.com/images/create/">here</a>.
 
 ### The Novelty Folder
