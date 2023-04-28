@@ -1,5 +1,5 @@
 <div align="center">
-    <image src="logo.jpg" alt="Grumpy Coffee" width="500" height="500">
+    <image src="logo_icon_tiny.jpg" alt="Grumpy Coffee Cups Logo">
     <br>
     <img src="pictures/normal-picture-001.jpg" width="10%">
     <img src="pictures/normal-picture-002.jpg" width="10%">
